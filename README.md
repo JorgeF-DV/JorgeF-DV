@@ -15,7 +15,7 @@ Soy lo que comunmente se conoce como"crack" en operaciones técnicas. ¿Por qué
 - **Metodologías:** Scrum, Historias de usuario, Pruebas E2E
 
 ## Enfoque Actual
-- Desarrollo de herramientas internas de automatización para soporte técnico y optimización de flujos operacionales.
+- Desarrollo de herramientas internas de automatización para soporte técnico y optimización de flujos operacionales. En palabras más coloquiales, "estoy viendo en que se debe concentrar el humano realmente".
 
 **Y sí, esta vaina está reescrita y organizada por IA, pero, vomitada por mí.**
 
