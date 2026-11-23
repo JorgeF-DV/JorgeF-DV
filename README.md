@@ -17,3 +17,5 @@ Soy lo que comunmente se conoce como"crack" en operaciones técnicas. ¿Por qué
 ## Enfoque Actual
 - Desarrollo de herramientas internas de automatización para soporte técnico y optimización de flujos operacionales.
 
+**Y sí, esta vaina está reescrita y organizada por IA, pero, vomitada por mí.**
+
